@@ -6,6 +6,13 @@
 
 ---
 
+## 💬 Pronouns
+He/Him
+
+---
+
+---
+
 ## 👀 Interests
 - Web Development (Frontend & Backend)
 - App Development
@@ -38,11 +45,6 @@
 
 ---
 
-## 💬 Pronouns
-He/Him
-
----
-
 ## 📫 How to reach me
 - Email: **pathanayan8347@gmail.com**
 - GitHub: [@ayan-x1] **https://github.com/ayan-x1**
@@ -52,4 +54,3 @@ He/Him
 
 ## ⚡ Fun Fact
 I love coding late at night, and I believe debugging teaches more than tutorials!
-
