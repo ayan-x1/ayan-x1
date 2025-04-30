@@ -8,6 +8,7 @@
 
 ## 👀 Interests
 - Web Development (Frontend & Backend)
+- App Development
 - Open Source Contributions
 - Problem Solving and Data Structures
 - Exploring new technologies and frameworks
@@ -33,7 +34,7 @@
 - **Portfolio Website** – A responsive personal portfolio built with HTML, CSS, and JavaScript.
 - **To-Do List Web App** – A full-stack MERN project that allows users to manage daily tasks.
 - **Weather App** – A JavaScript-based app fetching real-time weather data using an external API.
-> 📌 You can check out more on my [GitHub repositories](https://github.com/ayan-x1?tab=repositories)
+> 📌 You can check out more on my [GitHub repo](https://github.com/ayan-x1?tab=repositories)
 
 ---
 
@@ -43,9 +44,9 @@ He/Him
 ---
 
 ## 📫 How to reach me
-- Email: **ayanalipathan@gmail.com**
-- GitHub: [@ayan-x1](https://github.com/ayan-x1)
-- LinkedIn: *(Add your LinkedIn link if you have one)*
+- Email: **pathanayan8347@gmail.com**
+- GitHub: [@ayan-x1] *(https://github.com/ayan-x1)*
+- LinkedIn: [@pathan-ayan] *(https://www.linkedin.com/in/pathan-ayan/)*
 
 ---
 
