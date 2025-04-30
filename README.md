@@ -1,12 +1,12 @@
-<h1 align="center">Hey everyone 👋, I'm Pathan Abdul Ayanali</h1>
+<h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Future+Tech+Innovator;Clean+Code+Advocate;Open+Source+Contributor&center=true&width=600&height=45&color=00F7FF&vCenter=true&pause=1000" />
 </p>
 
-<h2><strong>👨‍🎓 Full Stack Developer | MERN Enthusiast | AI Explorer</strong></h2>
-<h2>💬 Open to discuss <strong>React, Node.js, JS/TS, PHP, MySQL</strong></h2>
-<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayan-x1&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 <table>
   <tr>
@@ -18,79 +18,127 @@
       </p>
     </td>
     <td>
-      <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="debugging"/>
+      <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding animation"/>
     </td>
   </tr>
 </table>
 
----
+## 💼 About Me
+
+- 🌱 I'm currently advancing my skills in **React Native, Express.js & DS/Algorithms**
+- 💬 Ask me about **MERN Stack, Frontend Development & Clean Code Practices**
+- ⚡ Fun fact: **I debug with coffee and solve problems while taking walks**
 
 ## 🧠 Projects Showcase
 
-- 🚀 **Blogs-Buzz** – Tech blog platform exploring AI & software trends *(JavaScript)*  
-- 🍀 **Veggie-Hub** – PHP-based veggie inventory mini-project *(Public)*  
-- 🔐 **Auth-Tutorial** – Fully functional authentication system with React *(JavaScript)*  
-- 📈 **StockSphere-NoLimits** – Stock analysis app built during Hackathon *(TypeScript)*  
+<table align="center">
+  <tr>
+    <td>
+      <h3>🚀 Blogs-Buzz</h3>
+      <p>Tech blog platform exploring AI & software trends</p>
+      <p><strong>Tech:</strong> React, Node.js, MongoDB, Express</p>
+      <a href="https://github.com/ayan-x1/blogs-buzz">View Project</a>
+    </td>
+    <td>
+      <h3>🍀 Veggie-Hub</h3>
+      <p>PHP-based veggie inventory mini-project</p>
+      <p><strong>Tech:</strong> PHP, MySQL, Bootstrap, JavaScript</p>
+      <a href="https://github.com/ayan-x1/veggie-hub">View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🔐 Auth-Tutorial</h3>
+      <p>Fully functional authentication system with React</p>
+      <p><strong>Tech:</strong> React, Firebase, Tailwind CSS</p>
+      <a href="https://github.com/ayan-x1/auth-tutorial">View Project</a>
+    </td>
+    <td>
+      <h3>📈 StockSphere-NoLimits</h3>
+      <p>Stock analysis app built during Hackathon</p>
+      <p><strong>Tech:</strong> TypeScript, React, Node.js, Chart.js</p>
+      <a href="https://github.com/ayan-x1/stocksphere-nolimits">View Project</a>
+    </td>
+  </tr>
+</table>
 
-🔗 Explore more projects at [@ayan-x1 GitHub](https://github.com/ayan-x1?tab=repositories)
-
----
+<p align="center">🔗 <a href="https://github.com/ayan-x1?tab=repositories">Explore more projects</a> in my repositories</p>
 
 ## 🛠️ Tech Stack
 
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nodejs,express,mongodb,mysql,tailwind,vscode,git,github,postman&perline=8" />
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 
----
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+</p>
+
+<h3 align="center">Databases & Tools</h3>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a>
+</p>
 
 ## 🚧 Currently Building & Learning
 
-- 📱 **React Native** – Next-gen mobile apps  
-- ⚙️ **Express.js** – High-performance API development  
-- 🧠 **Data Structures & Algorithms in JS** – Preparing for coding interviews  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br>
+        React Native
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br>
+        Express.js
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
+        DS & Algorithms
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical&rank_icon=github" width="45%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="40%"/>
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:pathanayan8347@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pathan-ayan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ayan-x1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <p>🌐 Portfolio: Coming Soon!</p>
+</div>
 
 ---
-
-## 📊 GitHub Stats & Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan-x1&theme=tokyonight" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayan-x1&theme=tokyonight" width="47%" />
+  <i>"Strive not to be a success, but rather to be of value."</i> – Albert Einstein
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayan-x1&theme=tokyonight" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayan-x1&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayan-x1&theme=tokyonight&utcOffset=8" width="47%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Ayan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ayan-x1&bg_color=0d1117&color=00ffe1&line=00ffc8&point=ffffff&hide_border=true" />
-</a>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pathan-ayan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="mailto:pathanayan8347@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" /></a>
-</p>
-
----
-
-## 📌 GitHub Badge
-
-<a href="https://github.com/ayan-x1?tab=followers"><img src="https://img.shields.io/github/followers/ayan-x1?label=Followers&style=social" alt="GitHub Badge"></a>
-
----
-
-> _"Strive not to be a success, but rather to be of value."_ – Albert Einstein
