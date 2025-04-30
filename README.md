@@ -29,41 +29,6 @@
 - 💬 Ask me about **MERN Stack, Frontend Development & Clean Code Practices**
 - ⚡ Fun fact: **I debug with coffee and solve problems while taking walks**
 
-## 🧠 Projects Showcase
-
-<table align="center">
-  <tr>
-    <td>
-      <h3>🚀 Blogs-Buzz</h3>
-      <p>Tech blog platform exploring AI & software trends</p>
-      <p><strong>Tech:</strong> React, Node.js, MongoDB, Express</p>
-      <a href="https://github.com/ayan-x1/blogs-buzz">View Project</a>
-    </td>
-    <td>
-      <h3>🍀 Veggie-Hub</h3>
-      <p>PHP-based veggie inventory mini-project</p>
-      <p><strong>Tech:</strong> PHP, MySQL, Bootstrap, JavaScript</p>
-      <a href="https://github.com/ayan-x1/veggie-hub">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🔐 Auth-Tutorial</h3>
-      <p>Fully functional authentication system with React</p>
-      <p><strong>Tech:</strong> React, Firebase, Tailwind CSS</p>
-      <a href="https://github.com/ayan-x1/auth-tutorial">View Project</a>
-    </td>
-    <td>
-      <h3>📈 StockSphere-NoLimits</h3>
-      <p>Stock analysis app built during Hackathon</p>
-      <p><strong>Tech:</strong> TypeScript, React, Node.js, Chart.js</p>
-      <a href="https://github.com/ayan-x1/stocksphere-nolimits">View Project</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">🔗 <a href="https://github.com/ayan-x1?tab=repositories">Explore more projects</a> in my repositories</p>
-
 ## 🛠️ Tech Stack
 
 <h3 align="center">Languages</h3>
