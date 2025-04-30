@@ -8,8 +8,8 @@
   <tr>
     <td width="60%">
       <p>
-        🚀 Passionate Full Stack Developer focused on building dynamic, responsive, and scalable web applications.  
-        🔍 Exploring AI integration, data-driven solutions, and clean architectural patterns.  
+        🚀 Passionate Full Stack Developer focused on building dynamic, responsive, and scalable web applications.<br>
+        🔍 Exploring AI integration, data-driven solutions, and clean architectural patterns.<br>
         🤝 Always open to collaboration, innovation, and learning cutting-edge tech every single day.
       </p>
     </td>
@@ -44,7 +44,7 @@
 
 - 📱 **React Native** – Next-gen mobile apps  
 - ⚙️ **Express.js** – High-performance API development  
-- 🧠 **Data Structures & Algorithms in JS** – Preparing for coding interviews
+- 🧠 **Data Structures & Algorithms in JS** – Preparing for coding interviews  
 
 ---
 
@@ -54,6 +54,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical&rank_icon=github" width="32%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayan-x1&theme=tokyonight" width="32%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayan-x1&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayan-x1&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 👨‍💻 Developer at Work
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer coding gif"/>
 </p>
 
 ---
