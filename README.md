@@ -1,12 +1,36 @@
 <h1 align="center">Hi 👋, I'm Pathan Abdul Ayanali</h1>
 
-<p align="center">
-✨ Aspiring Full Stack Developer passionate about building intuitive digital experiences. I enjoy solving real-world problems through clean, scalable code and love exploring modern web technologies. Always eager to collaborate and learn something new every day!
-</p>
+<div align="center">
+  <p>
+    ✨ Aspiring Full Stack Developer passionate about building intuitive digital experiences.<br/>
+    I enjoy solving real-world problems through clean, scalable code and love exploring modern web technologies.<br/>
+    Always eager to collaborate and learn something new every day!
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
-</p>
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <h3>💡 About Me</h3>
+        <ul>
+          <li>🔭 Currently working on Full Stack Web Projects using MERN stack</li>
+          <li>📚 Learning React Native and deepening Express.js knowledge</li>
+          <li>💻 I love creating things that live on the internet, whether websites, applications, or anything in between</li>
+          <li>🛠️ Always experimenting with new tech, currently diving into DSA with JavaScript</li>
+        </ul>
+      </td>
+      <td valign="top" width="40%">
+        <video width="100%" controls loop autoplay muted>
+          <source src="https://user-images.githubusercontent.com/74038190/212750687-986f4922-6a9c-4a27-8d15-4fdc2131e2d0.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -46,7 +70,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+| 📈 GitHub Overview | 🔤 Total Used Languages |
+|--------------------|-------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=radical&langs_count=6) |
+
+---
+
 ### 🌱 Currently Learning
+
 - 📱 **React Native** – Cross-platform mobile app development  
 - 💡 **Express.js** – Efficient backend APIs  
 - 🔍 **DSA in JavaScript** – Cracking the coding interview style!
@@ -56,24 +89,4 @@
 ### 📫 Connect With Me
 
 - 📧 [pathanayan8347@gmail.com](mailto:pathanayan8347@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pathan-ayan/)  
-- 🔗 [GitHub](https://github.com/ayan-x1)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-x1&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-🌙 I code best when the world sleeps. Debugging at 2am hits different! 💻🧠
+- 💼 [LinkedIn](https://www.linkedin.com/in/pathan-ayan/)
