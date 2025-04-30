@@ -51,9 +51,19 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical&rank_icon=github" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan-x1&theme=tokyonight" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayan-x1&theme=tokyonight" width="47%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayan-x1&theme=tokyonight" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayan-x1&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayan-x1&theme=tokyonight&utcOffset=8" width="47%" />
+</p>
+
 
 ---
 
