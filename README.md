@@ -48,10 +48,10 @@
 
 ### 📈 GitHub Stats
 
-**Style 1 – Classic Overview**  
+**Classic Overview**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical)
 
-**Style 2 – Streaks & Contributions**  
+**Streaks & Contributions**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayan-x1&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight)
 
