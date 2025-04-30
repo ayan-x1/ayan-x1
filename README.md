@@ -52,7 +52,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical&rank_icon=github" width="32%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayan-x1&theme=tokyonight" width="32%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="32%"/>
 </p>
 
