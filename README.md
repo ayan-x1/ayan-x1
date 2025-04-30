@@ -1,56 +1,85 @@
-# 👋 Hi there, I’m Pathan Abdul Ayanali (aka @ayan-x1)
-
-🎓 I'm currently pursuing my **B.Tech degree** at **G H Patel College of Engineering and Technology (GCET)**, Gujarat.
-
-📍 I'm from **Rajpipla, Gujarat, India**.
+<h1 align="center">Hi there 👋, I'm Pathan Abdul Ayanali</h1>
+<h3 align="center">Aspiring Full-Stack & App Developer | B.Tech Student @ GCET</h3>
 
 ---
 
-## 💬 Pronouns
-He/Him
+🎓 **Education**  
+I'm currently pursuing my **B.Tech degree** in Engineering at  
+📍 *G H Patel College of Engineering and Technology (GCET)*, Gujarat, India.
+
+🌍 I'm from **Rajpipla, Gujarat**  
+💬 Pronouns: **He/Him**  
 
 ---
 
----
-
-## 👀 Interests
-- Web Development (Frontend & Backend)
-- App Development
-- Open Source Contributions
-- Problem Solving and Data Structures
-- Exploring new technologies and frameworks
+## 🔍 Interests
+- 🌐 Web Development (Frontend & Backend)
+- 📱 App Development (React Native)
+- 💡 Open Source Contributions
+- 🧠 Problem Solving & DSA
+- 🚀 Exploring modern technologies & tools
 
 ---
 
 ## 🌱 Currently Learning
-- **React-Native** for Android or App development
--  **ExpressJS** for backend development
-- **DSA (Data Structures & Algorithms)** in JavaScript
+- ⚛️ **React Native** – for cross-platform mobile apps  
+- 🛠️ **Express.js** – for backend development  
+- 📊 **DSA (Data Structures & Algorithms)** – in JavaScript  
 
 ---
 
-## 🛠️ Skills
-- **Languages:** JavaScript, HTML, CSS, C
-- **Frameworks & Libraries:** React.js, Tailwind CSS, Node.js, Express.js
-- **Databases:** MongoDB, MySQL (basic)
-- **Tools:** Git & GitHub, VS Code, Postman
+## 🛠️ Skills & Tools
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
 
 ---
 
-## 💼 Projects
-- **Portfolio Website** – A responsive personal portfolio built with HTML, CSS, and JavaScript.
-- **To-Do List Web App** – A full-stack MERN project that allows users to manage daily tasks.
-- **Weather App** – A JavaScript-based app fetching real-time weather data using an external API.
-> 📌 You can check out more on my [GitHub repo] **https://github.com/ayan-x1?tab=repositories**
+## 💼 Featured Projects
+
+🔹 **Portfolio Website**  
+A responsive personal portfolio built with HTML, CSS, and JavaScript.  
+🔗 [View Repository](https://github.com/ayan-x1)
+
+🔹 **To-Do List Web App**  
+A full-stack MERN application for managing daily tasks with authentication.  
+🔗 [Check it out](https://github.com/ayan-x1)
+
+🔹 **Weather App**  
+A JavaScript-based app that shows real-time weather using OpenWeather API.  
+🔗 [Explore on GitHub](https://github.com/ayan-x1)
+
+> 📌 You can explore all my projects here: [GitHub Repositories »](https://github.com/ayan-x1?tab=repositories)
 
 ---
 
-## 📫 How to reach me
-- Email: **pathanayan8347@gmail.com**
-- GitHub: [@ayan-x1] **https://github.com/ayan-x1**
-- LinkedIn: [@pathan-ayan] **https://www.linkedin.com/in/pathan-ayan/**
+## 📫 Connect With Me
+
+- 📧 Email: [pathanayan8347@gmail.com](mailto:pathanayan8347@gmail.com)  
+- 🔗 GitHub: [@ayan-x1](https://github.com/ayan-x1)  
+- 💼 LinkedIn: [@pathan-ayan](https://www.linkedin.com/in/pathan-ayan/)
 
 ---
 
 ## ⚡ Fun Fact
-I love coding late at night, and I believe debugging teaches more than tutorials!
+
+> I love coding at night — bugs fear the dark, but I debug better in it! 😄
