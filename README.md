@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pathan Abdul Ayanali</h1>
+<h1 align="center">Hey everyone 👋, I'm Pathan Abdul Ayanali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Future+Tech+Innovator;Clean+Code+Advocate;Open+Source+Contributor&center=true&width=600&height=45&color=00F7FF&vCenter=true&pause=1000" />
@@ -59,14 +59,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayan-x1&theme=tokyonight" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayan-x1&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 👨‍💻 Developer at Work
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer coding gif"/>
 </p>
 
 ---
