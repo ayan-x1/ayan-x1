@@ -25,9 +25,9 @@
 
 ## 💼 About Me
 
-- 🌱 I'm currently advancing my skills in **React Native, Express.js & DS/Algorithms**
-- 💬 Ask me about **MERN Stack, Frontend Development & Clean Code Practices**
-- ⚡ Fun fact: **I debug with coffee and solve problems while taking walks**
+- 🌱 Currently sharpening my skills in **React Native, Express.js, and Data Structures & Algorithms.**
+- 💬 **Ask me about the MERN Stack, Frontend Architecture, and writing Clean, Maintainable Code.**
+- ⚡ Fun fact: **I do my best debugging at 2 AM, when the world is quiet and my coffee is strong — it’s when the real coding magic happens.**
 
 ## 🛠️ Tech Stack
 
