@@ -87,7 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="40%"/>
 </div>
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
   <a href="mailto:pathanayan8347@gmail.com">
@@ -99,7 +99,9 @@
   <a href="https://github.com/ayan-x1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <p>🌐 Portfolio: Coming Soon!</p>
+  <a href="https://ayanali-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
