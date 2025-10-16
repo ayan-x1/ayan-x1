@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png")
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/d953eb5c-8b51-4c93-8247-ef9b3fb48ba2" />
 
 <!--
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
@@ -7,10 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Future+Tech+Innovator;Clean+Code+Advocate;Open+Source+Contributor&center=true&width=600&height=45&color=4CC9F0&vCenter=true&pause=1000" />
 </p>
 -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayan-x1&style=flat-square&color=blue" alt="Profile views"/>
-</div>
 
+<!--
 <table>
   <tr>
     <td width="60%">
@@ -25,11 +23,7 @@
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayan-x1&theme=algolia&margin-w=15&margin-h=15"/>
-</p>
+-->
 
 ## 💼 About Me
 
@@ -85,14 +79,17 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Trophies & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayan-x1&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="40%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical&rank_icon=github" width="45%"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="40%"/>
-</div>
+
 
 ## 📬 Let's Connect
 
@@ -116,3 +113,7 @@
 <p align="center">
   <i> “<b>Keep pushing boundaries — the code you write today is your future legacy.</b>” </i>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayan-x1&style=flat-square&color=blue" alt="Profile views"/>
+</div>
