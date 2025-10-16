@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Future+Tech+Innovator;Clean+Code+Advocate;Open+Source+Contributor&center=true&width=600&height=45&color=00F7FF&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Future+Tech+Innovator;Clean+Code+Advocate;Open+Source+Contributor&center=true&width=600&height=45&color=4CC9F0&vCenter=true&pause=1000" />
 </p>
 
 <div align="center">
@@ -111,5 +111,5 @@
 ---
 
 <p align="center">
-  <i>"Strive not to be a success, but rather to be of value."</i> – Albert Einstein
+  <i> “<b>Keep pushing boundaries — the code you write today is your future legacy.</b>” </i>
 </p>
