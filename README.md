@@ -1,9 +1,12 @@
+![Header](./github-header-banner.png")
+
+<!--
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Future+Tech+Innovator;Clean+Code+Advocate;Open+Source+Contributor&center=true&width=600&height=45&color=4CC9F0&vCenter=true&pause=1000" />
 </p>
-
+-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ayan-x1&style=flat-square&color=blue" alt="Profile views"/>
 </div>
