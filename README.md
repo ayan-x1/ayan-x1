@@ -68,10 +68,6 @@
         React Native
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br>
-        Express.js
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>
         DS & Algorithms
       </td>
@@ -86,8 +82,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&theme=tokyonight&langs_count=8" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=radical&rank_icon=github" width="45%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayan-x1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -111,7 +107,12 @@
 ---
 
 <p align="center">
-  <i> “<b>Keep pushing boundaries — the code you write today is your future legacy.</b>” </i>
+  <i>💭 “<b>Keep pushing boundaries — the code you write today is your future legacy.</b>” </i>
+</p>
+<p align="center">
+  🌟 Thank you for visiting! Keep supporting me and <a href="https://buymeacoffee.com/pathanayan" target="_blank" style="position: relative">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
 </p>
 
 <div align="center">
