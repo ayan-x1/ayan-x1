@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/d953eb5c-8b51-4c93-8247-ef9b3fb48ba2" />
+<img width="1700" height="460" alt="github-header-banner3" src="https://github.com/user-attachments/assets/2e6e0653-fa47-42b8-8ebb-2c2d83f5d773" />
 
 <!--
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
