@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner3" src="https://github.com/user-attachments/assets/2e6e0653-fa47-42b8-8ebb-2c2d83f5d773" />
+<img width="2125" height="575" alt="github-header-banner4" src="https://github.com/user-attachments/assets/2a8f67ee-c01e-4b12-abb9-4710f224a8a8" />
 
 <!--
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
@@ -28,9 +28,9 @@
 
 ## 💼 About Me
 
-- 🌱 Currently sharpening my skills in **React Native, Express.js, and Data Structures & Algorithms.**
-- 💬 **Ask me about the MERN Stack, Frontend Architecture, and writing Clean, Maintainable Code.**
-- ⚡ Fun fact: **I do my best debugging at 2 AM, when the world is quiet and my coffee is strong — it’s when the real coding magic happens.**
+- Currently sharpening my skills in **React Native, Express.js, and Data Structures & Algorithms.**
+- **Ask me about the MERN Stack, Frontend Architecture, and writing Clean, Maintainable Code.**
+- Fun fact: **I do my best debugging at 2 AM, when the world is quiet and my coffee is strong — it’s when the real coding magic happens.**
 
 
 ## 🛠️ Tech Stack
