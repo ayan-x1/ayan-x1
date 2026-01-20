@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner4" src="https://github.com/user-attachments/assets/2a8f67ee-c01e-4b12-abb9-4710f224a8a8" />
+<img width="2125" height="575" alt="github-header-banner1" src="https://github.com/user-attachments/assets/e8c5a658-2fbf-4099-81d7-0a59cec7164a" />
 
 <!--
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
@@ -84,9 +84,10 @@
 
 <div align="center">
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&langs_count=8&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayan-x1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayan-x1&layout=compact&langs_count=8&theme=tokyonight)
 
 </div>
 
@@ -116,7 +117,7 @@
 
 <div>
   <p align="center">
-    🌟 Thank you for visiting! Keep supporting me and
+    🙏 Thank you for visiting! Keep supporting me and
   </p>
   <p align="center">
     <a href="https://buymeacoffee.com/pathanayan" target="_blank">
