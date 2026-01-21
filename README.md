@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner1" src="https://github.com/user-attachments/assets/e8c5a658-2fbf-4099-81d7-0a59cec7164a" />
+<img width="1700" height="460" alt="github-header-banner2" src="https://github.com/user-attachments/assets/cc125c60-34f5-47f5-80fe-d08efaaaa2cb" />
 
 <!--
 <h1 align="center">Hey there 👋, I'm Pathan Abdul Ayanali</h1>
@@ -94,21 +94,27 @@
 
 ## 📬 Let's Connect
 
-<div align="center">
-  <a href="mailto:pathanayan8347@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<p align="center">
+  <a href="mailto:ayanali@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pathan-ayan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ayan-x1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://ayanali-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
 
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ayan-x1">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="https://ayanali-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+  
 ---
 
 <div align="center">
