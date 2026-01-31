@@ -30,7 +30,7 @@
 
 - Currently sharpening my skills in **React Native, Express.js, and Data Structures & Algorithms.**
 - **Ask me about the MERN Stack, Frontend Architecture, and writing Clean, Maintainable Code.**
-- Fun fact: **I do my best debugging at 2 AM, when the world is quiet and my coffee is strong — it’s when the real coding magic happens.**
+- Fun fact: **I do my best debugging at 2 AM, when the world is quiet, and my coffee is strong — it’s when the real coding magic happens.**
 
 
 ## 🛠️ Tech Stack
@@ -118,12 +118,12 @@
 ---
 
 <div align="center">
-  <i>💭 “<b>Keep pushing boundaries — the code you write today is your future legacy.</b>” </i>
+  <i> “<b>Keep pushing boundaries — the code you write today is your future legacy.</b>” </i>
 </div>
 
 <div>
   <p align="center">
-    🙏 Thank you for visiting! Keep supporting me and
+      Thank you for visiting! Keep supporting me and
   </p>
   <p align="center">
     <a href="https://buymeacoffee.com/pathanayan" target="_blank">
